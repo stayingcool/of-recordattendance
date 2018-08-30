@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="RequestTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2018-08-24T05:13:28" hostname="ahmni01mac148" time="0.004">
+  <properties/>
+  <testcase name="testEmptyRequestParameterGetSet" classname="RequestTest" time="0.003"/>
+  <testcase name="testRequestRawGetSet" classname="RequestTest" time="0.0"/>
+  <testcase name="testMultipleRequestParametersGetSet" classname="RequestTest" time="0.0"/>
+  <testcase name="testSingleRequestParameterGetSet" classname="RequestTest" time="0.0"/>
+  <testcase name="testNullRequestParameterGetSet" classname="RequestTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

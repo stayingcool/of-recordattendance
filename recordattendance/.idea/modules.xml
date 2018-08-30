@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/function.iml" filepath="$PROJECT_DIR$/.idea/modules/function.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/function_main.iml" filepath="$PROJECT_DIR$/.idea/modules/function_main.iml" group="function" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/function_test.iml" filepath="$PROJECT_DIR$/.idea/modules/function_test.iml" group="function" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/model/model.iml" filepath="$PROJECT_DIR$/.idea/modules/model/model.iml" group="model" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/model/model_main.iml" filepath="$PROJECT_DIR$/.idea/modules/model/model_main.iml" group="model" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/model/model_test.iml" filepath="$PROJECT_DIR$/.idea/modules/model/model_test.iml" group="model" />
+      <module fileurl="file://$PROJECT_DIR$/recordattendance.iml" filepath="$PROJECT_DIR$/recordattendance.iml" />
+    </modules>
+  </component>
+</project>
