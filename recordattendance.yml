@@ -1,9 +1,9 @@
 provider:
   name: faas
-  gateway: http://127.0.0.1:8080
+  gateway: http://10.131.231.92:31112
 
 functions:
   recordattendance:
     lang: java8
     handler: ./recordattendance
-    image: emailfromanywhere/recordattendance
+    image: stayingkewl/recordattendance

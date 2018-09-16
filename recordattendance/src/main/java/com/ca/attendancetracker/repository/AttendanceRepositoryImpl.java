@@ -33,8 +33,8 @@ public class AttendanceRepositoryImpl implements AttendanceRepository {
     public List<Attendance> getAttendance() {
         Attendance attendance = new Attendance();
         attendance.setName("Corner Canyon");
-        attendance.setId("somseID");
-        attendance.setUserid("ahsmni01");
+        attendance.setId("TestID");
+        attendance.setUserid("ahmni01");
         List<Attendance> attendances = new ArrayList<>();
         attendances.add(attendance);
         return attendances;
